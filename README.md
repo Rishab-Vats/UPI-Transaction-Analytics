@@ -43,7 +43,7 @@ I divided the project into three major analytical areas:
 | Database | MySQL |
 | Visualization | Microsoft Excel |
 
-**Dataset Source:** [Upi Transaction data with dashboards.xlsx]
+**Dataset Source:** ![Upi Transaction data with dashboards.xlsx]
 
 The full raw workbook is not included in this repository because of its file size. Refer to the `data/README.md` file for dataset access information.
 
