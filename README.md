@@ -205,6 +205,6 @@ It also gave me practical experience in translating raw transactional records in
 
 **Project Status:** Excel dashboards completed. SQL analysis and final data-quality documentation to be completed and validated.
 
-**Author:** [Your Name]
+**Author:** Rishab Vats
 
 **Skills:** Microsoft Excel | MySQL | Data Analysis | Business Intelligence | Data Visualization
