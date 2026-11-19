@@ -43,7 +43,7 @@ I divided the project into three major analytical areas:
 | Database | MySQL |
 | Visualization | Microsoft Excel |
 
-**Dataset Source:** [Add the original dataset source or explain how the dataset was provided.]
+**Dataset Source:** [Upi Transaction data with dashboards.xlsx]
 
 The full raw workbook is not included in this repository because of its file size. Refer to the `data/README.md` file for dataset access information.
 
@@ -91,7 +91,7 @@ Key areas covered:
 - Top merchants by transaction value
 - Customer payment preferences
 
-![Customer Analytics]()
+![Customer Analytics](Dashboard/Customers.png)
 
 ### 3. Payment Performance & Reliability
 
@@ -107,7 +107,7 @@ Key areas covered:
 - Bank-wise transaction volume
 - Hourly technical failure analysis
 
-![Payment Performance](screenshots/03_payment_performance.png)
+![Payment Performance](Dashboard/payments.png)
 
 ## Key Findings
 
