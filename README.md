@@ -73,7 +73,7 @@ Key areas covered:
 - Hourly transaction volume
 - Category-wise transaction value
 
-![Executive Transaction Overview](screenshots/01_executive_overview.png)
+![Executive Transaction Overview](Dashboard/overview.png)
 
 ### 2. Customer & Merchant Intelligence
 
